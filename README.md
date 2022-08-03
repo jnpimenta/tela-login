@@ -1,6 +1,8 @@
-# tela-login
+# Tela-login
 
 Criação de uma tela para login, projeto simples, desenvolvido com intuito de praticar o que estou estudando!
+
+URL: https://login-jnpimenta.netlify.app/
 
 ## :zap: Ferramentas utilizadas!
     ° HTML5
